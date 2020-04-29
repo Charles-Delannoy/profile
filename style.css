@@ -2,8 +2,10 @@
 
 /*Global rules*/
 body {
-  background-color: #DBD3C9;
+  background-image: url('/images/back.jpg');
+  background-size: cover;
   font-family: 'Noto Sans JP', sans-serif;
+  background-attachment: fixed;
 }
 
 h1, h2, h3 {
