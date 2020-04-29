@@ -68,6 +68,11 @@ nav
   color: #6E8387;
 }
 
+#menu a:hover {
+  background-color: white;
+  transition: background-color 1.5s;
+}
+
 #logo{
   display: flex;
   color: black;
